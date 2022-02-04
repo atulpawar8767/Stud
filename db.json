@@ -1,0 +1,23 @@
+{
+        "Student":[ {
+        "id": 1,
+        "name": "atul",
+        "age": 27,
+        "mobile": 8767394259
+         "aadhar" : Aadhar
+    },
+    {
+        "id": 2,
+        "name": "abhi",
+        "age": 25,
+        "mobile": 7875014079
+       "aadhar" : Aadhar
+    },
+    {
+        "id": 3,
+        "name": "abhi",
+        "age": 25,
+        "mobile": 7875014079
+      "aadhar" : Aadhar
+    } ]
+}
